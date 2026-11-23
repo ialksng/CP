@@ -1,17 +1,11 @@
-#include<bits/stdc++.h> // lib that includes all the standard libraries
-using namespace std;
+#include<iostream> 
+// iostream is a header file that contains the definitions of the classes and functions for input and output operations
 
 int main() {
-    // std::cout << "Hey" << std::endl << "Alok" << "\n";
-    // std::cout << "Whats up?";
+// int main() is the main function that is the entry point of the program
 
-    // OR (using namespace std)
-    cout << "Hey" << std::endl << "Alok" << "\n";
-    cout << "Whats up?";
-
-    // int x, y;
-    // cin >> x >> y;
-    // cout << x << " " << y;
+    std::cout << "Hello World" << '\n';
+    // cout is a stream object that represents the output stream and is used to display the output on the console
 
     return 0;
 }
