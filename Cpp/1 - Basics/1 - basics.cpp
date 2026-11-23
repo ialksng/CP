@@ -9,9 +9,9 @@ int main() {
     cout << "Hey" << std::endl << "Alok" << "\n";
     cout << "Whats up?";
 
-    int x, y;
-    cin >> x >> y;
-    cout << x << " " << y;
+    // int x, y;
+    // cin >> x >> y;
+    // cout << x << " " << y;
 
     return 0;
 }
